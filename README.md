@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/114054834/204706994-dfb94f2d-bc87-49fa-86e8-2a8d7f54c28f.mp4
-
 ### Hi there 👋
   欢迎来到刘绍腾的个人网站。
 - 🔭 I’m currently working on 中华民族的伟大复兴。
