@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I am a 大学生。
 - 个人成就：
 
-https://user-images.githubusercontent.com/114054834/204705001-8d4b272b-3e93-48d7-a869-833ea45bba90.mp4
+!https://user-images.githubusercontent.com/114054834/204705001-8d4b272b-3e93-48d7-a869-833ea45bba90.mp4
 
 - 艺术作品：![11ec6d89c488543fdbf2bfbdbd99322](https://user-images.githubusercontent.com/114054834/204704922-e1073a90-8c67-4dc4-8b73-b14ce65013fe.jpg)
 ![3cba34496d0d2bd0ddcd792d6911817](https://user-images.githubusercontent.com/114054834/204704935-fa8a4c0c-d1d5-443c-9ad9-32f0ee66c897.jpg)
