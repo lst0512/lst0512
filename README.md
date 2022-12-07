@@ -8,12 +8,9 @@
 - 📫 How to reach me: call me 18634767637 or add my weixin in the same way.
 - 😄 Pronouns: 忠实且可靠。
 - ⚡ Fun fact: I am a 大学生。
-- 
-<a href="TG-2022-10-28-235250532.mp4">个人成就 
--
-<a href="社会考察.mp4">社会考察
-- 
-<a href="团队工作.mp4">团队工作
+- <a href="TG-2022-10-28-235250532.mp4">个人成就 
+- <a href="社会考察.mp4">社会考察
+- <a href="团队工作.mp4">团队工作
 
 
 
