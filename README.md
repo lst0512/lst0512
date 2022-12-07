@@ -12,7 +12,7 @@
 <a href="TG-2022-10-28-235250532.mp4">https://user-images.githubusercontent.com/114054834/204705001-8d4b272b-3e93-48d7-a869-833ea45bba90.mp4 <a>
 -社会考察：
 
-https://user-images.githubusercontent.com/114054834/204716174-405dfdd0-b362-4e02-ae6b-a3206160499b.mp4
+<a href=""https://user-images.githubusercontent.com/114054834/204716174-405dfdd0-b362-4e02-ae6b-a3206160499b.mp4
 
 - 团队工作：
 
