@@ -12,10 +12,10 @@
 <a href="TG-2022-10-28-235250532.mp4">https://user-images.githubusercontent.com/114054834/204705001-8d4b272b-3e93-48d7-a869-833ea45bba90.mp4 <a>
 -社会考察：
 
-<a href="社会考察.mp4"https://github.com/lst0512/lst0512/blob/main/%E5%9B%A2%E9%98%9F%E5%B7%A5%E4%BD%9C.mp4
+<a href="社会考察.mp4">https://github.com/lst0512/lst0512/blob/main/%E5%9B%A2%E9%98%9F%E5%B7%A5%E4%BD%9C.mp4
 - 团队工作：
 
-<a href="团队工作.mp4"https://user-images.githubusercontent.com/114054834/204716214-3d8d63bb-fc1f-492a-b459-479c4f281798.mp4
+<a href="团队工作.mp4">https://user-images.githubusercontent.com/114054834/204716214-3d8d63bb-fc1f-492a-b459-479c4f281798.mp4
 
 
 
