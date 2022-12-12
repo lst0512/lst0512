@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with you.
 - 💬 Ask me about anysing ,nopeople konws more than me.
 - 📫 How to reach me: call me 18634767637 or add my weixin in the same way.
-- 😄 Pronouns: 忠实且可靠。
+- <a href="index.html">个人主页
 - ⚡ Fun fact: I am a 大学生。
 - <a href="TG-2022-10-28-235250532.mp4">个人成就 
 - <a href="社会考察.mp4">社会考察
