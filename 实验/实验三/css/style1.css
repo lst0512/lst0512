@@ -1,0 +1,14 @@
+.h2{
+	color: red;
+	text-align: center;
+}
+.h3{
+	color: green;
+	text-align: left;
+}
+body{
+	color: black;
+	background-color:rgba(255,251,240,1.00);
+	text-indent:2em;
+	line-height:30px;
+  }
